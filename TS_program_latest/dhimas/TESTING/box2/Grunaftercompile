@@ -1,0 +1,5 @@
+NAME="$1"
+LEN=${#NAME}
+EXE_NAME=${NAME:0:LEN-4}
+DIR="executables/"
+g++ -o $DIR$EXE_NAME $NAME && ./$DIR$EXE_NAME

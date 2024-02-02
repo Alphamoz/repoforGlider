@@ -1,0 +1,8 @@
+prefix=/home/jason/catkin_ws/install
+
+Name: glider_msg
+Description: Description of glider_msg
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

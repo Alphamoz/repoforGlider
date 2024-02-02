@@ -1,0 +1,2 @@
+2023-06-15 14:20:45	BE statusResetBE  MM rudder mainThruster bow _
+2023-06-15 14:20:45	100 0 50 30 1500 1200 0

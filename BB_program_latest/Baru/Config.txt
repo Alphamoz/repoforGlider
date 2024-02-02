@@ -1,0 +1,8 @@
+IMUActive       1
+BeagleActive    1
+SurfaceMode     0
+SurfaceDepth    3
+DebugGuidance   1
+DummyCoordinate	0
+BeagleMatlab    0
+--Don't delete this line--

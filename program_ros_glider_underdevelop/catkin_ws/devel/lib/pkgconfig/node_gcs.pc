@@ -1,0 +1,8 @@
+prefix=/home/jason/catkin_ws/devel
+
+Name: node_gcs
+Description: Description of node_gcs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,43 @@
+Fri Jun 29 2018 18:42:50 State : Gliding
+Fri Jun 29 2018 18:42:53 State : Gliding
+Fri Jun 29 2018 18:42:56 State : Gliding
+Fri Jun 29 2018 18:42:59 State : Gliding
+Fri Jun 29 2018 18:43:02 State : Gliding
+Fri Jun 29 2018 18:43:02 State : Start Ops
+Fri Jun 29 2018 18:43:03 State : Descent
+Fri Jun 29 2018 18:43:03 State : Descent
+Fri Jun 29 2018 18:43:03 State : Descent
+Fri Jun 29 2018 18:43:03 State : Descent
+Fri Jun 29 2018 18:43:03 State : Descent
+Fri Jun 29 2018 18:43:03 State : Surfacing
+Fri Jun 29 2018 18:43:03 State : Stop Ops
+Fri Jun 29 2018 18:43:19 State : Operation
+Fri Jun 29 2018 18:43:19 State : Start Ops
+Fri Jun 29 2018 18:43:20 State : Descent
+Fri Jun 29 2018 18:43:20 State : Descent
+Fri Jun 29 2018 18:43:20 State : Descent
+Fri Jun 29 2018 18:43:20 State : Descent
+Fri Jun 29 2018 18:43:20 State : Descent
+Fri Jun 29 2018 18:43:20 State : Surfacing
+Fri Jun 29 2018 18:43:20 State : Bowthrusters ON
+Fri Jun 29 2018 18:43:20 State : Propeller ON
+Fri Jun 29 2018 18:43:20 State : Propeller OFF
+Fri Jun 29 2018 18:43:40 State : Stop Ops
+Fri Jun 29 2018 18:45:51 State : Gliding
+Fri Jun 29 2018 18:45:51 State : Start Ops
+Fri Jun 29 2018 18:45:52 State : Descent
+Fri Jun 29 2018 18:45:52 State : Descent
+Fri Jun 29 2018 18:45:52 State : Descent
+Fri Jun 29 2018 18:45:52 State : Descent
+Fri Jun 29 2018 18:45:52 State : Descent
+Fri Jun 29 2018 18:45:52 State : Surfacing
+Fri Jun 29 2018 18:45:52 State : Stop Ops
+Fri Jun 29 2018 18:46:14 State : Gliding
+Fri Jun 29 2018 18:46:14 State : Start Ops
+Fri Jun 29 2018 18:46:15 State : Descent
+Fri Jun 29 2018 18:46:15 State : Descent
+Fri Jun 29 2018 18:46:15 State : Descent
+Fri Jun 29 2018 18:46:15 State : Descent
+Fri Jun 29 2018 18:46:15 State : Descent
+Fri Jun 29 2018 18:46:15 State : Surfacing
+Fri Jun 29 2018 18:46:15 State : Stop Ops

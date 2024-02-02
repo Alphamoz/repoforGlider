@@ -1,0 +1,8 @@
+prefix=/home/jason/catkin_ws/install
+
+Name: control_actuator
+Description: Description of control_actuator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

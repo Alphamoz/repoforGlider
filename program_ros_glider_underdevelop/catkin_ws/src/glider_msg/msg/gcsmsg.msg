@@ -1,0 +1,2 @@
+string messageGCS
+string statusGCS

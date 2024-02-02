@@ -1,0 +1,9 @@
+clear
+NAME="$1"
+LEN=${#NAME}
+DIR="executables/"
+EXE_NAME=${NAME:0:LEN-4}
+
+echo ".:. ---------------------- Compiling ---------------------- .:."
+g++-4.9 -std=c++11 -lncurses -o $DIR$EXE_NAME $NAME -pthread
+echo ".:. ----------------------  Compiled ---------------------- .:."

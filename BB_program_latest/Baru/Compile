@@ -1,0 +1,8 @@
+clear
+NAME="$1"
+LEN=${#NAME}
+#DIR="executables/"
+EXE_NAME=${NAME:0:LEN-4}
+echo "COMPILING"
+g++ -o $EXE_NAME $NAME imu.c rs232/rs232.c an_packet_protocol.c spatial_packets.c -lpthread
+

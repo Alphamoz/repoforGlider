@@ -1,0 +1,7 @@
+clear
+NAME="$1"
+LEN=${#NAME}
+DIR="executables/"
+EXE_NAME=${NAME:0:LEN-4}
+echo "COMPILING"
+g++ -o $DIR$EXE_NAME $NAME -lpthread

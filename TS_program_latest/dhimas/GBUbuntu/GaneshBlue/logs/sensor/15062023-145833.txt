@@ -1,0 +1,2 @@
+2023-06-15 14:58:33	Temp Conductivity Depth Vx(cal) Vy(cal) Vz(cal) Lat Long Roll Pitch Heading Pose Volt Leak Speed BoardTemp
+2023-06-15 14:58:33	0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 2 0.000000 0.000000 0.000000 30.000000
