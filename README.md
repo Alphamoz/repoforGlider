@@ -62,10 +62,11 @@ Progress
   - ![100%](https://progress-bar.dev/100) lib
   - ![0%](https://progress-bar.dev/0) implementation  
   
-- To Do
+- To Do (migration code)
   - ![0%](https://progress-bar.dev/0) Navigation  
   - ![0%](https://progress-bar.dev/0) Control
   - ![0%](https://progress-bar.dev/0) Guidance
+  - ![0%](https://progress-bar.dev/0) FSM
 
 ### Arduino
 Arduino program is maintained by Ardian, last modified by Jason to fix bug of moving mass motor (remove stopping code).
