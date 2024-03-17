@@ -3,6 +3,9 @@ This is repository for Glider
 
 # Folder Tree for This Repository
 ```bash
+├───ardu_code                       ###(Ardu program)
+│   └───rev12_nano_noBlockingCode.ino
+│
 ├───BB_program_latest               ###(BB program)
 │   └───Baru
 │       
@@ -66,7 +69,7 @@ Progress
   - ![0%](https://progress-bar.dev/0) Navigation  
   - ![0%](https://progress-bar.dev/0) Control
   - ![0%](https://progress-bar.dev/0) Guidance
-  - ![0%](https://progress-bar.dev/0) FSM
+  - ![0%](https://progress-bar.dev/0) FSM (GCS)
 
 ### Arduino
 Arduino program is maintained by Ardian, last modified by Jason to fix bug of moving mass motor (remove stopping code).
@@ -74,6 +77,3 @@ Arduino program is maintained by Ardian, last modified by Jason to fix bug of mo
 Progress
 - Implementation
   - ![100%](https://progress-bar.dev/100) implementation
-
-
-
